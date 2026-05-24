@@ -1,4 +1,4 @@
-# Privacy Policy — A Machine to Kill a God
+# Gwilym's Games Privacy Policy
 
 Last updated: 2026-05-24
 
@@ -31,7 +31,7 @@ The title screen has a "Disable telemetry" button. After clicking it, no further
 
 ## Deleting your data
 
-Email gwilyms.games@gmail.com from any address — we'll remove all records tied to your player ID.
+Email gwilyms.games@gmail.com from any address - we'll remove all records tied to your player ID.
 
 ## Contact
 
