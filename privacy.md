@@ -31,7 +31,7 @@ The title screen has a "Disable telemetry" button. After clicking it, no further
 
 ## Deleting your data
 
-Email gwilyms.games@gmail.com from any address - we'll remove all records tied to your player ID.
+Email gwilyms.games@gmail.com - we'll remove all records tied to your player ID.
 
 ## Contact
 
