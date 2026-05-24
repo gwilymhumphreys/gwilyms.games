@@ -13,7 +13,7 @@ While the game is running, it sends anonymous gameplay events to our analytics p
 ## What we don't collect
 
 - Your real name, email, or any account identifier
-- Your IP address (our analytics provider may log it server-side; we never see or store it)
+- Your IP address
 - Anything you type
 - Save file contents
 
@@ -23,7 +23,7 @@ To understand where players get stuck, what balance changes work, and where the 
 
 ## Who else sees it
 
-We use [Tokebi](https://tokebi-api.vercel.app) to receive and store the events. We don't share data with anyone else.
+We use [Tokebi](https://www.tokebimetrics.com/privacy) to receive and store the events. We don't share data with anyone else.
 
 ## Opting out
 
