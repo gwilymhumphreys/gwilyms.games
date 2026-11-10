@@ -4,7 +4,7 @@ Last updated: 2026-11-10
 
 ## What we collect
 
-While the game is running, it sends anonymous gameplay events to our analytics provider:
+The game sends nothing unless you turn telemetry on. If you do, then while the game is running it sends anonymous gameplay events to our analytics provider:
 
 - A random per-player ID generated on your machine (no name, email, or account identifier)
 - Gameplay events: purchases, band clears, session start/end, frame rate, idle stretches
@@ -31,13 +31,15 @@ To understand where players get stuck, what balance changes work, and where the 
 
 We use [PostHog](https://posthog.com/privacy) to receive and store the events. We don't share data with anyone else.
 
-## Opting out
+## Turning it on and off
 
-The title screen has a Disable telemetry button. After clicking it, no further gameplay events leave your machine. The setting persists across sessions.
+Telemetry is off until you turn it on. The first time you start or continue a game, the game asks whether it may send this data. The title screen asks the same question, with a button to enable it.
 
-To turn telemetry back on, click the same button, which then reads Enable telemetry. Events start again the next time you launch the game.
+To turn it off again, click the same button, which then reads Disable telemetry. No further gameplay events leave your machine. The setting persists across sessions.
 
-Feedback is the one exception. If you write feedback in the game and send it, it is sent even with telemetry disabled, because you asked for it to be.
+Versions of the game before 0.1.25 sent this data unless you turned it off with that button.
+
+Feedback is the one exception. If you write feedback in the game and send it, it is sent even with telemetry off, because you asked for it to be.
 
 ## Deleting your data
 
