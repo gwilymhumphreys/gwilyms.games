@@ -13,7 +13,7 @@ The game sends nothing unless you turn telemetry on. If you do, then while the g
 - Your graphics card model, to help us find performance problems
 - In the browser version, if the game stopped unexpectedly last time: the browser's error message, and whether the page was closed normally, was in the background or lost its graphics. This is kept in your browser until the game next starts, then sent and deleted
 
-If you send feedback through the game's feedback form, we also receive what you wrote, with your player ID, platform, language and game version.
+If you send feedback through the game's feedback form, we also receive what you wrote and where you sent it from (the main menu, the pause menu or the end of the game), with your player ID, the random IDs of that session and game, how long that game had been running, and your platform, language and game version.
 
 ## What we don't collect
 
@@ -53,6 +53,8 @@ On Windows, macOS and Linux your player ID is the one line in the file `posthog_
 - Linux: `~/.local/share/The Deconsecration Initiative`
 
 Include it in your email so we can find your records.
+
+In the browser version, your player ID is kept in your browser's storage for the game's page, where it is hard to find. Instead, send feedback from inside the game asking for your data to be deleted. Feedback arrives with your player ID, so we can find your records from it. Clearing the page's data in your browser gives you a new player ID, but it does not delete records already sent.
 
 ## Contact
 
