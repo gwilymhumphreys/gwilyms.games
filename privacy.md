@@ -1,6 +1,6 @@
 # Gwilym's Games Privacy Policy
 
-Last updated: 2026-10-27
+Last updated: 2026-11-10
 
 ## What we collect
 
@@ -10,16 +10,18 @@ While the game is running, it sends anonymous gameplay events to our analytics p
 - Gameplay events: purchases, band clears, session start/end, frame rate, idle stretches
 - How you play: which buildings you look at and for how long, which upgrades were on offer and at what price when you bought something or moved on, how much you collect by hand, and how much time you spend collecting and looking at buildings
 - Platform (Windows / macOS / Linux / Web), language, game version
-- Your approximate location, such as your city. Our analytics provider works this out from your IP address when an event arrives.
+- Your graphics card model, to help us find performance problems
 
 If you send feedback through the game's feedback form, we also receive what you wrote, with your player ID, platform, language and game version.
 
 ## What we don't collect
 
 - Your real name, email, or any account identifier
-- Your IP address. Our analytics provider receives it with each event, as any server does, uses it to work out the approximate location above, and does not store it.
+- Your IP address or your location. Our analytics provider receives your IP address with each event, as any server does. It does not store the address or work out a location from it.
 - Anything you type, other than feedback you choose to send
 - Save file contents
+
+Events sent before 10 November 2026 include an approximate location, such as the city, which our analytics provider worked out from the IP address. We stopped collecting it on that date.
 
 ## Why
 
