@@ -11,6 +11,7 @@ The game sends nothing unless you turn telemetry on. If you do, then while the g
 - How you play: which buildings you look at and for how long, which upgrades were on offer and at what price when you bought something or moved on, how much you collect by hand, and how much time you spend collecting and looking at buildings
 - Platform (Windows / macOS / Linux / Web), language, game version
 - Your graphics card model, to help us find performance problems
+- In the browser version, if the game stopped unexpectedly last time: the browser's error message, and whether the page was closed normally, was in the background or lost its graphics. This is kept in your browser until the game next starts, then sent and deleted
 
 If you send feedback through the game's feedback form, we also receive what you wrote, with your player ID, platform, language and game version.
 
